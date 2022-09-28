@@ -10,11 +10,13 @@ API de Fichas de RPG
 * Matheus Lima Peres Poty (2124290040)
 * Joao Octávio (2124290002)
 
-
-## Tecnologias
+## Tecnologias Utilizadas
 * Node.js
 * Express
 * Swagger
 * Módulos NPM
 
-## 
+## Funcionalidades por Objeto
+* GET
+* GET por ID
+* PUT
