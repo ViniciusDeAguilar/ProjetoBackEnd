@@ -2,7 +2,7 @@
 Este repositório será utilizado no desenvolvimento de uma API REST.
 
 ## Informações Gerais
-###Tema:
+### Tema:
 API de Fichas de RPG
 
 ### Integrantes do Grupo:
