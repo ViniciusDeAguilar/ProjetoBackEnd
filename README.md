@@ -1,4 +1,4 @@
-# Projeto Back-End
+# Projeto Construção Back-End
 Este repositório será utilizado no desenvolvimento de uma API REST.
 
 ## Informações Gerais
@@ -15,3 +15,6 @@ API de Fichas de RPG
 * Node.js
 * Express
 * Swagger
+* Módulos NPM
+
+## 
