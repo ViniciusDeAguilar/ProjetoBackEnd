@@ -17,7 +17,9 @@ API de Fichas de RPG
 * Módulos NPM
 
 ## Objetos
-  *asdfa
+* Jogador
+* Ficha
+* NPC
 
 ## Funcionalidades por Objeto
 * GET
