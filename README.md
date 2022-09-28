@@ -16,6 +16,9 @@ API de Fichas de RPG
 * Swagger
 * Módulos NPM
 
+## Objetos
+  *asdfa
+
 ## Funcionalidades por Objeto
 * GET
 * GET por ID
